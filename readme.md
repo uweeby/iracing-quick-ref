@@ -1,30 +1,73 @@
-# Awesome List Template
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<div align="center">
 
-## Usage
+# Sim-Racing-Hardware Awesome List
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+An awesome list for sim racing hardware!
+</div>
+
+## Bundles
+
+links to stuff
+
+## Wheel Bases
+
+links to stuff
+
+## Pedals
+
+links to stuff
+
+## Shifters
+
+links to stuff
+
+## Hand Brakes
+
+links to stuff
+
+## Wheel Stands
+
+[Apiga AP2](https://www.amazon.com/APIGA-Foldable-Racing-Simulator-Stand-gearshift/dp/B00XBPYUIY/)
+
+Height adjustable multi-bar wheel support (goes around legs)  
+Pre-drilled for wheel hard-mounting and pedal hard-mounting  
+Compatible with seat mount  
+shifter mount included  
+
+[DXRacer PS/1000/N](https://www.dxracer.com/us/en-us/product/1/simulator/racing_simulator/ps-1000-n/)
+
+Height adjustable multi-bar wheel support (goes around legs)  
+Pre-drilled for wheel hard-mounting and pedal hard-mounting  
+Compatible with seat mount (also an adjustable version)  
+Shifter mount included  
+
+[GT Omega Wheel Stand](https://www.amazon.com/Steering-suitable-Logitech-Driving-Racing-Shifter/dp/B01FENJWZG/)
+
+Height adjustable multi-bar wheel support (goes around legs)  
+Pre-drilled for wheel hard-mounting and pedal hard-mounting  
+Compatible with seat mount  
+Shifter mount included  
+
+[Next Level Racing Wheel Stand](http://www.nextlevelracing.com/products/next-level-racing-wheel-stand/)
+
+Height adjustable multi-bar wheel support (goes around legs)  
+Pre-drilled for wheel hard-mounting and pedal hard-mounting  
+Compatible with (motion) seat mount, full seat, and screen mount  
+shifter mount included  
+
+[Wheel Stand Pro](https://www.amazon.com/Wheelstand-Thrustmaster-Wheel-Stand-Pro/dp/B00GP3RUI6/)
+
+Height adjustable single-bar wheel support (goes through legs)  
+Pre-drilled for wheel hard-mounting, pedals can be clamp mounted  
+No seat mounting available  
+Shifter mount included  
+
+## Rigs
+
+links to stuff
+
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
