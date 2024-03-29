@@ -1,59 +1,40 @@
+
 <div align="center">
 
-<!-- title -->
+# Sim-Racing-Hardware Awesome List
 
-<!--lint ignore no-dead-urls-->
-
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
-
-<!-- subtitle -->
-
-A template for an awesome list with required conventions out of the box!
-
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
-
-<!-- description -->
-
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
-
+An awesome list for sim racing hardware!
 </div>
 
-<!-- TOC -->
+## Bundles
 
-## Contents
+links to stuff
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+## Wheel Bases
 
-<!-- CONTENT -->
+links to stuff
 
-## Featured (new releases)
+## Pedals
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+links to stuff
 
-## Section 1
+## Shifters
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+links to stuff
 
-<!-- END CONTENT -->
+## Hand Brakes
 
-## Follow
+links to stuff
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+## Wheel Stands
 
-Who else should we be following!?
+links to stuff
+
+## Rigs
+
+links to stuff
+
 
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
