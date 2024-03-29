@@ -6,6 +6,19 @@
 An awesome list for sim racing hardware!
 </div>
 
+# Sections
+
+- [Bundles](#bundles)
+- [Wheel Bases](#wheel-bases)
+- [Pedals](#pedals)
+- [Shifters](#shifters)
+- [Hand Brakes](#hand-brakes)
+- [Wheel Stands](#wheel-stands)
+- [Cockpits](#wheel-stands)
+- [Motion Cockpits / Platforms](#motion-cockpits-/-platforms)
+
+<br>
+
 ## Bundles
 
 links to stuff
